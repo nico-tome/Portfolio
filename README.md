@@ -147,3 +147,37 @@ J'ai ensuite éxporté le jeu avec [Turbowarp](https://packager.turbowarp.org/?i
     </a>
 
 </details>
+
+
+## Project Manager 🛠️
+
+<details open>
+
+<summary>Gouvernail Project Manager</summary>
+
+
+### Outils
+  <img alt="godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/> <img alt="gdscript" src="https://img.shields.io/badge/gdscript-02303A?style=for-the-badge"/> <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+
+### Description
+
+<blockquote style="border-left: 4px solid red; padding: 10px; background-color: #ffe6e6;">
+    <strong>⚠️ Avertissement :</strong> Ce projet est une démo et n'est pas fini. Il peut y avoir des bugs et il n'y a pas toutes les features de base.
+</blockquote>
+
+
+  Ce projet est une application de gestion de projet basé sur les graphs. Elle permet de faciliter la visualisation et la gestion grace à un système de noeud qui représente une sous-parties du projet, la structure d'arbre permet de définir des sous-parties de façon de plus en plus détaillé jusqu'à arriver à une liste de tâches précise et facile à modifier et à lire.
+
+### Inclus
+
+- Editeur de position de départ pour les simulations
+- Système de fichier en .gol (game of life) qui permet de sauvegarder des position de départ et des structures
+
+
+### Liens
+
+<a target="_blank" href="https://tomyo.itch.io/gpm">
+      <img alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+</a>
+
+</details>
