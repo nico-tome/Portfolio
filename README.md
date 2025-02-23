@@ -170,8 +170,10 @@ J'ai ensuite éxporté le jeu avec [Turbowarp](https://packager.turbowarp.org/?i
 
 ### Inclus
 
-- Editeur de position de départ pour les simulations
-- Système de fichier en .gol (game of life) qui permet de sauvegarder des position de départ et des structures
+- Paramètres
+- Système de graph
+- Canva simple
+- Gestion de projets
 
 
 ### Liens
