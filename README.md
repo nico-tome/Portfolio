@@ -7,7 +7,7 @@
 
 # Jeux-vidéos 🕹️
 
- ## 2D 🟦
+ ## - 2D 🟦
 
 <details open>
 
@@ -149,7 +149,33 @@ J'ai ensuite éxporté le jeu avec [Turbowarp](https://packager.turbowarp.org/?i
 </details>
 
 
-## Project Manager 🛠️
+## Outils 🛠️
+
+<details open>
+
+<summary>Morse Translator</summary>
+
+
+### Outils
+  <img alt="electron" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/> <img alt="scratch" src="https://img.shields.io/badge/Scratch-FF6F00?style=for-the-badge&logo=Scratch&logoColor=white"/>
+
+### Description
+
+  Ce projet est la première application que j'ai faites. C'est une conversion de mots en morse en utilisant deux listes pour avoir les équivalents des lettres en morse.
+
+### Inclus
+
+- Son
+- Visualisation du mot en morse
+
+
+### Liens
+
+<a target="_blank" href="https://github.com/nico-tome/Morse-Translate">
+      <img alt="itch" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</details>
 
 <details open>
 
@@ -180,6 +206,40 @@ J'ai ensuite éxporté le jeu avec [Turbowarp](https://packager.turbowarp.org/?i
 
 <a target="_blank" href="https://tomyo.itch.io/gpm">
       <img alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+</a>
+
+</details>
+
+
+## Contribution 🔗
+
+<details open>
+
+<summary>TurboWarp</summary>
+
+
+### Outils
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+### Description
+
+  Cette contribution avait pour but d'apporter une extension qui permet d'interagir avec le press-papier via des blocs dans [TurboWap](https://turbowarp.org/).
+
+### Inclus
+
+- Copie
+- Coller
+- Vider le press-papier
+
+
+### Liens
+
+<a target="_blank" href="https://github.com/nico-tome/extensions">
+      <img alt="repo of the fork" src="https://img.shields.io/badge/Fork-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a target="_blank" href="https://github.com/TurboWarp/extensions">
+      <img alt="repo of the fork" src="https://img.shields.io/badge/Turbowarp Extension Repo-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </details>
