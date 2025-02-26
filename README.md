@@ -7,7 +7,7 @@
 
 # Jeux-vidéos 🕹️
 
- ## - 2D 🟦
+ ### 2D 🟦
 
 <details open>
 
@@ -35,7 +35,7 @@ J'ai ensuite exporté exporté le jeu avec [Turbowarp](https://packager.turbowar
 
 </details>
 
-## 3D 🟧
+### 3D 🟧
 
 <details open>
 
