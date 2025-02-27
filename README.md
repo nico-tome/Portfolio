@@ -211,7 +211,7 @@ J'ai ensuite éxporté le jeu avec [Turbowarp](https://packager.turbowarp.org/?i
 </details>
 
 
-### Contribution 🔗
+## Contribution 🔗
 
 <details open>
 
@@ -243,3 +243,22 @@ J'ai ensuite éxporté le jeu avec [Turbowarp](https://packager.turbowarp.org/?i
 </a>
 
 </details>
+
+---
+
+<p align="center">
+    <a target="_blank" href="mailto:nicolas.tome.38@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a target="_blank" href="https://www.instagram.com/nico__tome/">
+        <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target="_blank" href="https://www.youtube.com/channel/UCdCudHce2Enb42QlhJ0Q7aQ">
+        <img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+    <a target="_blank" href="https://tomyo.itch.io/">
+      <img alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+    </a>
+</p>
+
+---
