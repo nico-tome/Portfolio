@@ -65,7 +65,7 @@ J'ai ensuite exporté le jeu avec [Turbowarp](https://packager.turbowarp.org/?im
 
 # Autres projets ✏️
 
-## IA 🤖
+### IA 🤖
 
 <details open>
 
@@ -120,7 +120,7 @@ J'ai ensuite exporté le jeu avec [Turbowarp](https://packager.turbowarp.org/?im
 
 </details>
 
-## Science 🧪
+### Science 🧪
 
 <details open>
 
@@ -149,7 +149,7 @@ J'ai ensuite éxporté le jeu avec [Turbowarp](https://packager.turbowarp.org/?i
 </details>
 
 
-## Outils 🛠️
+### Outils 🛠️
 
 <details open>
 
@@ -211,7 +211,7 @@ J'ai ensuite éxporté le jeu avec [Turbowarp](https://packager.turbowarp.org/?i
 </details>
 
 
-## Contribution 🔗
+### Contribution 🔗
 
 <details open>
 
