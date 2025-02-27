@@ -13,7 +13,7 @@
 
 <summary>Blue Red Square</summary>
 
-##### Outils
+** Outils **
   <img alt="electron" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/> <img alt="scratch" src="https://img.shields.io/badge/Scratch-FF6F00?style=for-the-badge&logo=Scratch&logoColor=white"/>
 
 ##### Description
@@ -41,7 +41,7 @@ J'ai ensuite exporté exporté le jeu avec [Turbowarp](https://packager.turbowar
 
 <summary>Fisc Adventure</summary>
 
-##### Outils
+** Outils **
   <img alt="electron" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/> <img alt="scratch" src="https://img.shields.io/badge/Scratch-FF6F00?style=for-the-badge&logo=Scratch&logoColor=white"/>
 
 ##### Description
@@ -71,7 +71,7 @@ J'ai ensuite exporté le jeu avec [Turbowarp](https://packager.turbowarp.org/?im
 
 <summary>Jeu du pendu</summary>
 
-##### Outils
+** Outils **
   <img alt="electron" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/> <img alt="scratch" src="https://img.shields.io/badge/Scratch-FF6F00?style=for-the-badge&logo=Scratch&logoColor=white"/>
 
 #### Description
