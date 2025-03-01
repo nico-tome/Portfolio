@@ -1,4 +1,4 @@
-[retour](README.md) | [en](translation/en/blue-red-square.md) | [es](translation/es/blue-red-square.md)
+[retour](/README.md) | [en](translation/en/blue-red-square.md) | [es](translation/es/blue-red-square.md)
   
 # Blue Red Square
 
