@@ -10,7 +10,7 @@
 - 🤖 **Machine Learning**
 
     * [Jeu du pendu](translation/fr/hang-game-ai.md)
-    * [Geometry Dash](tranlsation/fr/geometrydash-ai.md)
+    * [Geometry Dash](tranlsation/fr/geometry-dash-ai.md)
 
 - 🎲 **Games**
 
@@ -19,7 +19,7 @@
 
 - 🛠 **Productivity Tools**
 
-    * [Gouvernail Project Manager](translation/fr/gpm.md)
+    * [Gouvernail Project Manager](translation/fr/gouvernail-project-manager.md)
 
 - 🔢 **Maths**
 
