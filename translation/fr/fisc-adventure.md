@@ -1,4 +1,4 @@
-[retour](README.md) | [en](translation/en/fisc-adventure.md) | [es](translation/es/fisc-adventure.md)
+[retour](/README.md) | [en](translation/en/fisc-adventure.md) | [es](translation/es/fisc-adventure.md)
   
 # Fisc Adventure
 
