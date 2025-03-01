@@ -1,4 +1,4 @@
-[retour](README.md) | [en](translation/en/morse-translatori.md) | [es](translation/es/morse-translator.md)
+[retour](/README.md) | [en](translation/en/morse-translatori.md) | [es](translation/es/morse-translator.md)
   
 # Fisc Adventure
 
