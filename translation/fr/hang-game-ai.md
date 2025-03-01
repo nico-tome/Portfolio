@@ -21,7 +21,7 @@ J'ai ensuite exporté le jeu avec Turbowarp vers un executable windows pour le p
 Ce projet m'a permis de découvrir comment les algorithmes d'apprentissage marchait, notament avec les [réseaux de neurones](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels).
 
 <p align="center">
-  <img src="/image/hang-game-stats-page.png.png" width="300" alt="hang-game-stats-page">
+  <img src="/image/hang-game-stats-page.png" width="300" alt="hang-game-stats-page">
   <img src="/image/hang-game-logs-page.png" width="300" alt="hang-game-logs-page">
 </p>
 
