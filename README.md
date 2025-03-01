@@ -10,7 +10,7 @@
 - 🤖 **Machine Learning**
 
     * [Jeu du pendu](translation/fr/hang-game-ai.md)
-    * [Geometry Dash](tranlsation/fr/geometry-dash-ai.md)
+    * [Geometry Dash](translation/fr/geometry-dash-ai.md)
 
 - 🎲 **Games**
 
