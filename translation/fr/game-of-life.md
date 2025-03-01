@@ -14,7 +14,7 @@
 Ce projet fait en 1 journée pour me challenger reproduit l'experience informatique de Jhon Conway ([ici](https://fr.wikipedia.org/wiki/Jeu_de_la_vie)).
 
 <p align="center">
-  <img src="/image/game-pf-life-main-page.png" width="300" alt="game-of-life-main-page">
+  <img src="/image/game-of-life-main-page.png" width="300" alt="game-of-life-main-page">
 </p>
 
 J'ai ensuite exporté le projet avec Turbowarp vers des executables pour le publier sur Itch.io .    
