@@ -1,64 +1,51 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<p align="center"> <img alt="electron" src="https://github.com/nico-tome/Portfolio/blob/007552dc98572d0aa79592969b3b794328f19183/image/terminal.gif"/> </p>
+
+---
+
+<p align="center"> <a href="https://github.com/nico-tome/nico-tome">moi</a> | <a href="/README.md">fr</a> | </p>
+
+### 🚀 My projects
+
+- 🤖 **Machine Learning**
+
+    * [Hang game](translation/fr/hang-game-ai.md)
+    * [Geometry Dash](translation/fr/geometry-dash-ai.md)
+
+- 🎲 **Games**
+
+  * [Blue Red Square](translation/fr/blue-red-square.md)
+  * [Fisc Adventure](translation/fr/fisc-adventure.md)
+
+- 🛠 **Productivity Tools**
+
+    * [Gouvernail Project Manager](translation/fr/gouvernail-project-manager.md)
+
+- 🔢 **Maths**
+
+    * [Game of life](translation/fr/game-of-life.md)
+
+- 📌 **Others**
+
+    * [Morse Translator](translation/fr/morse-translator.md)
+
+🔗 Contribution to [TurboWarp](https://github.com/TurboWarp/extensions) ([pull-request](https://github.com/TurboWarp/extensions/pull/632))
+
+---
 
 <p align="center">
-    [français](README.md)
-</p>
-
-# Videogames 
-
-## 2D
-
-<details>
-
-<summary>Blue Red Square</summary>
-
-### Tools
-  <img alt="electron" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/> <img alt="scratch" src="https://img.shields.io/badge/Scratch-FF6F00?style=for-the-badge&logo=Scratch&logoColor=white"/>
-
-### Description
-  Blue Red Square is the first game I made. Created on Scratch, it is a rhythm game whose goal is to move a black square from one side of the screen to the other, using the keyboard arrows, on a path of blue squares that can turn red every second depending on a pattern. If the player steps on a red square or goes off the path, he is teleported to the beginning.
-
-I then exported the game with [Turbowarp](https://packager.turbowarp.org/?import_from=https://turbowarp.org) to an executable to publish it on Itch.io .
-
-### Includes
-
-- Sound settings and color blind option.
-- Level editors
-
-
-### Links
-
-<a target="_blank" href="https://tomyo.itch.io/blue-red-square">
+    <a target="_blank" href="mailto:nicolas.tome.38@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a target="_blank" href="https://www.instagram.com/nico__tome/">
+        <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target="_blank" href="https://www.youtube.com/channel/UCdCudHce2Enb42QlhJ0Q7aQ">
+        <img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+    <a target="_blank" href="https://tomyo.itch.io/">
       <img alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
     </a>
+</p>
 
-</details>
-
-## 3D
-
-<details>
-
-<summary>Fisc Adventure</summary>
-
-### Tools
-  <img alt="electron" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/> <img alt="scratch" src="https://img.shields.io/badge/Scratch-FF6F00?style=for-the-badge&logo=Scratch&logoColor=white"/>
-
-### Description
-  Fisc Adventure is a satirical game made for a course project. Made on scratch and using the [raycasting](https://en.wikipedia.org/wiki/Ray_casting) technique to have a 3D rendering with a 2D plane, the game takes place in 5 waves. 4 of preparation and 1 boss phase. The goal is to navigate through a small level and collect money to improve.
-
-I then exported the game with [Turbowarp](https://packager.turbowarp.org/?import_from=https://turbowarp.org) to an executable to publish it on Itch.io .
-
-### Includes
-
-- Sound settings and key customization.
-- Level editors
-
-
-### Liens
-
-<a target="_blank" href="https://tomyo.itch.io/fisc-adventure">
-      <img alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
-</a>
-
-</details>
+---
