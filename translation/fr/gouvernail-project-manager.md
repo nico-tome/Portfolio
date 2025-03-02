@@ -14,7 +14,7 @@
 > [!WARNING]
 > Ce projet n'est pas fini, vous pouvez trouver la liste des choses à faire dans [cette section](#todo-list).
 
-Ce projet est une application de gestion de projet basé sur les graphes. Elle permet de faciliter la visualisation et la gestion grâce à un système de noeud qui représente une sous-partie du projet, la structure d'arbre permet de définir des sous-parties de façon de plus en plus détaillées jusqu'à arriver à une liste de tâches précise, facile à modifier et à lire.
+Ce projet est une application de gestion de projets basé sur les graphes. Elle permet de faciliter la visualisation et la gestion grâce à un système de noeuds qui représente une sous-partie du projet, la structure d'arbre permet de définir des sous-parties de façon de plus en plus détaillées jusqu'à arriver à une liste de tâches précise, facile à modifier et à lire.
   
 <p align="center">
   <img src="/image/gpm-main-page.png" width="300" alt=" GPM main page">
@@ -27,7 +27,7 @@ Ce projet est une application de gestion de projet basé sur les graphes. Elle p
 > [!WARNING]
 > Ce projet n'est pas fini et la liste est donc incomplète, vous pouvez trouver la liste des choses à faire dans [cette section](#todo-list).
   
-| Featurs | |
+| Features | |
 |---------------|---------------|
 | Paramètres Graphisme | ✅ |
 | Sauvegarde | ✅ |
@@ -42,7 +42,7 @@ Ce projet est une application de gestion de projet basé sur les graphes. Elle p
 | Basic Node | ✅ |
 | List Node | ✅ |
 | Task Node | ✅ |
-| Node Node | ✅ |
+| Note Node | ✅ |
 | Image Node | ❌ |
 | Task Tags | ✅ |
 | Deadline | ✅ |
@@ -55,7 +55,7 @@ Ce projet est une application de gestion de projet basé sur les graphes. Elle p
 | Canvas | ✅ |
 | Wiki de projet | ❌ |
 | Projet en ligne | ❌ |
-| Système de contacte | ❌ |
+| Système de contacts | ❌ |
 
 
 ## Distribution
