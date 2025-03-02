@@ -38,7 +38,7 @@ Ce jeu m'a permis de travailler sur la 3D avec la technique de [raycasting](http
 |---------------|---------------|
 | Paramètres son | ✅ |
 | Paramètres Graphisme | ✅ |
-| Paramètres Controles | ✅ |
+| Paramètres Contrôles | ✅ |
 | Sauvegarde | ❌ |
 | Editeur de niveau | ✅ |
 
