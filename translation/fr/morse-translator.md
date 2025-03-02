@@ -17,7 +17,7 @@ Ce projet est la première application que j'ai faite. C'est une conversion de m
   <img src="/image/morse-translator-main-page.png" width="300" alt="morse translator main page">
 </p>
    
-Il n'est pas conseillé de traduire plus d'un mot à la fois. Ce projet m'a permis de me familiariser avec l'usage de liste et de traiter avec des chaines de caractères. J'ai aussi dû créer un script pour gérer l'affichage du texte et de sa taille en fonction de la taille de la fenêtre.
+Il n'est pas conseillé de traduire plus d'un mot à la fois. Ce projet m'a permis de me familiariser avec l'usage de listes et de traiter avec des chaines de caractères. J'ai aussi dû créer un script pour gérer l'affichage du texte et de sa taille en fonction de la taille de la fenêtre.
 
 
 ## Inclus
