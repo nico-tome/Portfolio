@@ -36,7 +36,7 @@ Ce jeu m'a permis de travailler sur la gestion, le chargement et la sauvegarde d
 |---------------|---------------|
 | Paramètres son | ✅ |
 | Paramètres Graphisme | ✅ |
-| Paramètres Controles | ❌ |
+| Paramètres Contrôles | ❌ |
 | Sauvegarde | ❌ |
 | Editeur de niveau | ✅ |
 
