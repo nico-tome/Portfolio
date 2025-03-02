@@ -1,6 +1,6 @@
 [retour](/README.md) | [en](translation/en/hang-game-ai.md) | [es](translation/es/hang-game-ai.md)
   
-# Fisc Adventure
+# Jeu du pendu
 
 <p align="center">
   <img src="/image/hang-game-ai.png" width="600" alt="Hang game ai logo">
