@@ -11,7 +11,7 @@
 <img alt="scratch" src="https://img.shields.io/badge/Scratch-FF6F00?style=for-the-badge&logo=Scratch&logoColor=white"/> <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 ## Description
-Ce projet fait en 1 journée pour me challenger reproduit l'experience informatique de Jhon Conway ([ici](https://fr.wikipedia.org/wiki/Jeu_de_la_vie)).
+Ce projet fait en 1 journée pour me challenger reproduit l'experience informatique de John Conway ([ici](https://fr.wikipedia.org/wiki/Jeu_de_la_vie)).
 
 <p align="center">
   <img src="/image/game-of-life-main-page.png" width="300" alt="game-of-life-main-page">
