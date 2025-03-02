@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/nico-tome/nico-tome">moi</a> | <a href="/translation/en/en.md">en</a> | </p>
+<p align="center"> <a href="https://github.com/nico-tome/nico-tome">moi</a> | <a href="/translation/en/en.md">en</a> | <a href="/translation/es/es.md">es</a> </p>
 
 ### 🚀 Mes projets
 
