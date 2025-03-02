@@ -31,7 +31,7 @@ Ce projet m'a permis de découvrir comment les algorithmes d'apprentissage march
 |---------------|---------------|
 | Paramètres son | ❌ |
 | Paramètres Graphisme | ❌ |
-| Paramètres Controles | ❌ |
+| Paramètres Contrôles | ❌ |
 | Sauvegarde | ❌ |
 | Logs | ✅ |
 | Stats | ✅ |
