@@ -1,4 +1,4 @@
-[retour](/README.md) | [en](translation/en/hang-game-ai.md) | [es](translation/es/hang-game-ai.md)
+[retour](/README.md) | [en](/translation/en/hang-game-ai.md) | [es](/translation/es/hang-game-ai.md)
   
 # Jeu du pendu
 
@@ -50,6 +50,4 @@ Ce projet m'a permis de découvrir comment les algorithmes d'apprentissage march
 
 <a target="_blank" href="https://tomyo.itch.io/hang-game-ai">
       <img alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
-    </a>
-
-</details>
+</a>
