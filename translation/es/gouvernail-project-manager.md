@@ -11,7 +11,7 @@
 <img alt="godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/> <img alt="gdscript" src="https://img.shields.io/badge/gdscript-02303A?style=for-the-badge"/> <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
 
 ## Descripción
-> [!ADVERTENCIA]  
+> [!WARNING]  
 > Este proyecto no está terminado; puedes encontrar la lista de tareas pendientes en [esta sección](#todo-list).
 
 Este proyecto es una aplicación de gestión de proyectos basada en gráficos. Facilita la visualización y gestión a través de un sistema de nodos donde cada nodo representa una subparte del proyecto. La estructura en árbol permite partes cada vez más detalladas hasta llegar a una lista de tareas precisa, que es fácil de modificar y leer.
@@ -23,7 +23,7 @@ Este proyecto es una aplicación de gestión de proyectos basada en gráficos. F
 </p>
 
 ## Incluido
-> [!ADVERTENCIA]  
+> [!WARNING]  
 > Este proyecto no está terminado, por lo que la lista está incompleta. Puedes encontrar la lista de tareas pendientes en [esta sección](#todo-list).
 
 | Características | |
@@ -41,7 +41,7 @@ Este proyecto es una aplicación de gestión de proyectos basada en gráficos. F
 | Nodo básico | ✅ |
 | Nodo lista | ✅ |
 | Nodo de tarea | ✅ |
-| Nodo nodo | ✅ |
+| Nodo nota | ✅ |
 | Nodo de imagen | ❌ |
 | Etiquetas de tarea | ✅ |
 | Fecha límite | ✅ |
