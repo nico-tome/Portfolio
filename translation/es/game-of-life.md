@@ -11,7 +11,7 @@
 <img alt="scratch" src="https://img.shields.io/badge/Scratch-FF6F00?style=for-the-badge&logo=Scratch&logoColor=white"/> <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 ## Descripción
-Este proyecto, hecho en un día como un desafío, reproduce el experimento computacional de John Conway ([aquí](https://es.wikipedia.org/wiki/Juego_de_la_vida_de_Conway)).
+Este proyecto, hecho en un día como un desafío, reproduce el experimento computacional de John Conway ([aquí](https://es.wikipedia.org/wiki/Juego_de_la_vida)).
 
 <p align="center">
   <img src="/image/game-of-life-main-page.png" width="300" alt="página principal del juego de la vida">
