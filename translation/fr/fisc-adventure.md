@@ -34,7 +34,7 @@ Ce jeu m'a permis de travailler sur la 3D avec la technique de [raycasting](http
 | Online | ❌ |
 | Offline Coop | ❌ |
 
-| Featurs | |
+| Features | |
 |---------------|---------------|
 | Paramètres son | ✅ |
 | Paramètres Graphisme | ✅ |
