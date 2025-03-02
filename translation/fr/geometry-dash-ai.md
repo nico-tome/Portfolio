@@ -16,12 +16,12 @@ Ce projet est ma deuxième IA et est faite avec Python, elle a appris à jouer �
   <img src="/image/geometry-dash-ai-training.png" width="300" alt="geometry-dash-ai-training">
 </p>
    
-Ce projet m'a permis d'approfondire ma connaisance sur les algorithmes d'apprentissage, notament avec la methode [PPO](https://fr.wikipedia.org/wiki/Optimisation_de_politique_proximale).
+Ce projet m'a permis d'approfondir ma connaisance sur les algorithmes d'apprentissage, notamment avec la méthode [PPO](https://fr.wikipedia.org/wiki/Optimisation_de_politique_proximale).
 
 
 ## Inclus
 
-| Featurs | |
+| Features | |
 |---------------|---------------|
 | Paramètres son | ❌ |
 | Paramètres Graphisme | ❌ |
