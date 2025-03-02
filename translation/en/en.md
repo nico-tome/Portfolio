@@ -9,25 +9,25 @@
 
 - 🤖 **Machine Learning**
 
-    * [Hang game](translation/en/hang-game-ai.md)
-    * [Geometry Dash](translation/en/geometry-dash-ai.md)
+    * [Hang game](/translation/en/hang-game-ai.md)
+    * [Geometry Dash](/translation/en/geometry-dash-ai.md)
 
 - 🎲 **Games**
 
-  * [Blue Red Square](translation/en/blue-red-square.md)
-  * [Fisc Adventure](translation/en/fisc-adventure.md)
+  * [Blue Red Square](/translation/en/blue-red-square.md)
+  * [Fisc Adventure](/translation/en/fisc-adventure.md)
 
 - 🛠 **Productivity Tools**
 
-    * [Gouvernail Project Manager](translation/en/gouvernail-project-manager.md)
+    * [Gouvernail Project Manager](/translation/en/gouvernail-project-manager.md)
 
 - 🔢 **Maths**
 
-    * [Game of life](translation/en/game-of-life.md)
+    * [Game of life](/translation/en/game-of-life.md)
 
 - 📌 **Others**
 
-    * [Morse Translator](translation/en/morse-translator.md)
+    * [Morse Translator](/translation/en/morse-translator.md)
 
 🔗 Contribution to [TurboWarp](https://github.com/TurboWarp/extensions) ([pull-request](https://github.com/TurboWarp/extensions/pull/632))
 
