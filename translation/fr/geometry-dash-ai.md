@@ -25,7 +25,7 @@ Ce projet m'a permis d'approfondir ma connaisance sur les algorithmes d'apprenti
 |---------------|---------------|
 | Paramètres son | ❌ |
 | Paramètres Graphisme | ❌ |
-| Paramètres Controles | ❌ |
+| Paramètres Contrôles | ❌ |
 | Sauvegarde | ✅ |
 | Logs | ✅ |
 | Stats | ❌ |
