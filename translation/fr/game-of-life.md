@@ -1,6 +1,6 @@
 [retour](/README.md) | [en](translation/en/game-of-life.md) | [es](translation/es/game-of-life.md)
   
-# Fisc Adventure
+# Jeu de la vie
 
 <p align="center">
   <img src="/image/game-of-life-logo.png" width="600" alt="Game of life logo">
