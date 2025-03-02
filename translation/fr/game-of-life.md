@@ -1,4 +1,4 @@
-[retour](/README.md) | [en](translation/en/game-of-life.md) | [es](translation/es/game-of-life.md)
+[retour](/README.md) | [en](/translation/en/game-of-life.md) | [es](/translation/es/game-of-life.md)
   
 # Jeu de la vie
 
