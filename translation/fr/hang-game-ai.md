@@ -1,4 +1,4 @@
-[retour](README.md) | [en](translation/en/hang-game-ai.md) | [es](translation/es/hang-game-ai.md)
+[retour](/README.md) | [en](translation/en/hang-game-ai.md) | [es](translation/es/hang-game-ai.md)
   
 # Fisc Adventure
 
