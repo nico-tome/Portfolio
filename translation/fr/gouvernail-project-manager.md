@@ -18,6 +18,8 @@ Ce projet est une application de gestion de projet basé sur les graphs. Elle pe
   
 <p align="center">
   <img src="/image/gpm-main-page.png" width="300" alt=" GPM main page">
+  <img src="/image/gpm-tl-page.png" width="300" alt=" GPM tasklist page">
+  <img src="/image/gpm-graph-page.png" width="300" alt=" GPM graph page">
 </p>
   
 
