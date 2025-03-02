@@ -18,7 +18,7 @@ Fisc Adventure es un juego satírico hecho para un proyecto escolar. Desarrollad
 </p>
 
 Luego exporté el juego con Turbowarp a un ejecutable de Windows para publicarlo en Itch.io.  
-Este juego me permitió trabajar en 3D utilizando la técnica de [raycasting](https://es.wikipedia.org/wiki/Raycasting). Los ajustes también son más completos, con controles personalizables, y el editor de niveles es intuitivo y fácil de usar. Los principales problemas del juego son la IA básica de los enemigos y el hecho de que solo incluye dos texturas. También hay errores que pueden, por ejemplo, arruinar la pelea con el jefe o simplemente interrumpir al jugador.
+Este juego me permitió trabajar en 3D utilizando la técnica de [raycasting](https://es.wikipedia.org/wiki/Ray_casting). Los ajustes también son más completos, con controles personalizables, y el editor de niveles es intuitivo y fácil de usar. Los principales problemas del juego son la IA básica de los enemigos y el hecho de que solo incluye dos texturas. También hay errores que pueden, por ejemplo, arruinar la pelea con el jefe o simplemente interrumpir al jugador.
 
 <p align="center">
   <img src="/image/fisc-adventure-level-editor.png" width="300" alt="Editor de Fisc Adventure">
