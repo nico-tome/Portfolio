@@ -1,4 +1,4 @@
-[retour](/README.md) | [en](translation/en/geometry-dash-ai.md) | [es](translation/es/geometry-dash-ai.md)
+[retour](/README.md) | [en](/translation/en/geometry-dash-ai.md) | [es](/translation/es/geometry-dash-ai.md)
   
 # Geometry Dash
 
