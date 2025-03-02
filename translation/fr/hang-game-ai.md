@@ -18,7 +18,7 @@ Ce projet est ma première IA, faite sur Scratch. Elle a appris à jouer au jeu 
 </p>
 
 J'ai ensuite exporté le jeu avec Turbowarp vers un fichier html pour le publier sur Itch.io .    
-Ce projet m'a permis de découvrir comment les algorithmes d'apprentissage marchaient, notament avec les [réseaux de neurones](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels).
+Ce projet m'a permis de découvrir comment les algorithmes d'apprentissage marchaient, notamment avec les [réseaux de neurones](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels).
 
 <p align="center">
   <img src="/image/hang-game-stats-page.png" width="300" alt="hang-game-stats-page">
@@ -27,7 +27,7 @@ Ce projet m'a permis de découvrir comment les algorithmes d'apprentissage march
 
 ## Inclus
 
-| Featurs | |
+| Features | |
 |---------------|---------------|
 | Paramètres son | ❌ |
 | Paramètres Graphisme | ❌ |
