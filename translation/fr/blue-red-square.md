@@ -38,7 +38,7 @@ Ce jeu m'a permis de travailler sur la gestion, le chargement et la sauvegarde d
 | Paramètres Graphisme | ✅ |
 | Paramètres Controles | ❌ |
 | Sauvegarde | ❌ |
-| Editeur de niveau | ❌ |
+| Editeur de niveau | ✅ |
 
 ## Distribution
 
