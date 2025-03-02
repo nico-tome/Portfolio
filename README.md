@@ -3,21 +3,21 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/nico-tome/Portfolio/blob/main/translation/en.md">en</a> | </p>
+<p align="center"> <a href="https://github.com/nico-tome/nico-tome">moi</a> | <a href="https://github.com/nico-tome/Portfolio/blob/main/translation/en.md">en</a> | </p>
 
-### 🚀 My Projects
+### 🚀 Mes projets
 
 - 🤖 **Machine Learning**
 
     * [Jeu du pendu](translation/fr/hang-game-ai.md)
     * [Geometry Dash](translation/fr/geometry-dash-ai.md)
 
-- 🎲 **Games**
+- 🎲 **Jeux**
 
   * [Blue Red Square](translation/fr/blue-red-square.md)
   * [Fisc Adventure](translation/fr/fisc-adventure.md)
 
-- 🛠 **Productivity Tools**
+- 🛠 **Outils de productivité**
 
     * [Gouvernail Project Manager](translation/fr/gouvernail-project-manager.md)
 
@@ -25,11 +25,11 @@
 
     * [Jeu de la vie](translation/fr/game-of-life.md)
 
-- 📌 **Others**
+- 📌 **Autres**
 
     * [Morse Translator](translation/fr/morse-translator.md)
 
-🔗 Contribution to [TurboWarp](https://github.com/TurboWarp/extensions) ([pull-request](https://github.com/TurboWarp/extensions/pull/632))
+🔗 Contribution à [TurboWarp](https://github.com/TurboWarp/extensions) ([pull-request](https://github.com/TurboWarp/extensions/pull/632))
 
 ---
 
