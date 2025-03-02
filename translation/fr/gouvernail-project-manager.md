@@ -8,7 +8,7 @@
 
 ## Languages
 
-<img alt="godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/> <img alt="gdscript" src="https://img.shields.io/badge/gdscript-02303A?style=for-the-badge"/> <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/> <img alt="gdscript" src="https://img.shields.io/badge/gdscript-02303A?style=for-the-badge"/> <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
 
 ## Description
 > [!WARNING]
