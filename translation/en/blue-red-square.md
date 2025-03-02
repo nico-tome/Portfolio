@@ -1,4 +1,4 @@
-[back](/translation/en/en.md) | [fr](translation/fr/blue-red-square.md) | [es](translation/es/blue-red-square.md)
+[back](/translation/en/en.md) | [fr](/translation/fr/blue-red-square.md) | [es](/translation/es/blue-red-square.md)
 
 # Blue Red Square
 
