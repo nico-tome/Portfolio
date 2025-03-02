@@ -22,7 +22,7 @@ J'ai ensuite exporté le projet avec Turbowarp vers des executables pour le publ
 
 ## Inclus
 
-| Featurs | |
+| Features | |
 |---------------|---------------|
 | Paramètres Graphisme | ✅ |
 | Sauvegarde | ✅ |
