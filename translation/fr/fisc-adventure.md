@@ -56,6 +56,4 @@ Ce jeu m'a permis de travailler sur la 3D avec la technique de [raycasting](http
 
 <a target="_blank" href="https://tomyo.itch.io/fisc-adventure">
       <img alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
-    </a>
-
-</details>
+</a>
