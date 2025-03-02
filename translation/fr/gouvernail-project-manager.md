@@ -1,6 +1,6 @@
 [retour](/README.md) | [en](translation/en/gouvernail-project-manager.md) | [es](translation/es/gouvernail-project-manager.md)
   
-# Fisc Adventure
+# Gouvernail Project Manager
 
 <p align="center">
   <img src="/image/gpm-logo.png" width="600" alt="GPM logo">
@@ -14,7 +14,7 @@
 > [!WARNING]
 > Ce projet n'est pas fini, vous pouvez trouver la liste des choses à faire dans [cette section](#todo-list).
 
-Ce projet est une application de gestion de projet basé sur les graphs. Elle permet de faciliter la visualisation et la gestion grace à un système de noeud qui représente une sous-parties du projet, la structure d'arbre permet de définir des sous-parties de façon de plus en plus détaillé jusqu'à arriver à une liste de tâches précise et facile à modifier et à lire.
+Ce projet est une application de gestion de projet basé sur les graphes. Elle permet de faciliter la visualisation et la gestion grâce à un système de noeud qui représente une sous-partie du projet, la structure d'arbre permet de définir des sous-parties de façon de plus en plus détaillées jusqu'à arriver à une liste de tâches précise, facile à modifier et à lire.
   
 <p align="center">
   <img src="/image/gpm-main-page.png" width="300" alt=" GPM main page">
