@@ -41,7 +41,7 @@ This project is a project management application based on graphs. It facilitates
 | Basic Node | ✅ |
 | List Node | ✅ |
 | Task Node | ✅ |
-| Node Node | ✅ |
+| Note Node | ✅ |
 | Image Node | ❌ |
 | Task Tags | ✅ |
 | Deadline | ✅ |
@@ -54,7 +54,7 @@ This project is a project management application based on graphs. It facilitates
 | Canvas | ✅ |
 | Project Wiki | ❌ |
 | Online Project | ❌ |
-| Contact System | ❌ |
+| Contacts System | ❌ |
 
 ## Distribution
 
