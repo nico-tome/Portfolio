@@ -16,10 +16,20 @@
         <p>Portfolio de projets</p>
       </div>
     </div>
-    <nav class="nav-links">
-      <a href="#projects">Projets</a>
-      <a href="#contact">Contact</a>
-    </nav>
+    <div class="header-actions">
+      <nav class="nav-links">
+        <a href="#projects">Projets</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <div class="lang-switcher">
+        <label class="sr-only" for="lang-select">Choisir la langue</label>
+        <select id="lang-select" class="lang-select" aria-label="Choisir la langue">
+          <option value="fr">Français</option>
+          <option value="en">English</option>
+          <option value="es">Español</option>
+        </select>
+      </div>
+    </div>
   </header>
 
   <main>
@@ -103,10 +113,6 @@
       </div>
     </section>
   </main>
-
-  <footer class="footer">
-    <p>Portfolio statique hébergeable sur GitHub Pages — créé avec HTML, CSS et JavaScript.</p>
-  </footer>
 
   <script src="data/projects.js"></script>
   <script src="script.js" defer></script>

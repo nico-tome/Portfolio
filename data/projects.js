@@ -106,5 +106,17 @@ window.PORTFOLIO_PROJECTS = [
 	status: 'C / Linux',
 	languages: ['C', 'Makefile'],
 	tags: ['Shell', 'C', '42']
+  },
+  {
+	title: 'leaffliction',
+	category: 'IA',
+	subtitle: 'Une IA d\'analyse de feuille',
+	description: 'Designer un reseau de neuronnes qui analyse des images de feuilles et predit leurs maladies.',
+	image: 'image/leaffliction.jpg',
+	link: 'https://github.com/nico-tome/Leaffliction',
+	linkLabel: 'Voir sur Github',
+	status: 'Python / Linux',
+	languages: ['Python'],
+	tags: ['Python', 'IA', '42']
   }
 ];
