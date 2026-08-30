@@ -1,4 +1,64 @@
 window.PORTFOLIO_PROJECTS = [
+	{
+		title: 'leaffliction',
+		category: 'IA',
+		subtitle: 'Une IA d\'analyse de feuille',
+		description: 'Designer un reseau de neuronnes qui analyse des images de feuilles et predit leurs maladies.',
+		image: 'image/leaffliction.jpg',
+		link: 'https://github.com/nico-tome/Leaffliction',
+		linkLabel: 'Voir sur Github',
+		status: 'Python / Linux',
+		languages: ['Python'],
+		tags: ['Python', 'IA', '42']
+	},
+	{
+	title: 'ft_ls',
+	category: 'Outils',
+	subtitle: 'Une reproduction de la commande ls',
+	description: 'Un projet de command linux qui reproduit le comportement de ls. Apprend la gestion de flag et des infos des fichiers.',
+	image: 'image/ft_ls.png',
+	link: 'https://github.com/nico-tome/ft_ls',
+	linkLabel: 'Voir sur Github',
+	status: 'C / Linux',
+	languages: ['C', 'Makefile'],
+	tags: ['Shell', 'C', '42']
+	},
+	{
+		title: 'Minishell',
+		category: 'Outils',
+		subtitle: 'Un shell minimaliste en C',
+		description: 'Un projet de shell minimaliste réalisé en C, avec des fonctionnalités de base pour l’exécution de commandes.',
+		image: 'image/minishell-logo.png',
+		link: 'https://github.com/nico-tome/minishell',
+		linkLabel: 'Voir sur GitHub',
+		status: 'C / Linux',
+		languages: ['C', 'Makefile'],
+		tags: ['Shell', 'C', '42']
+	},
+	{
+		title: 'Cube3D',
+		category: 'Jeux',
+		subtitle: 'Projet de raycasting en C',
+		description: 'Un projet de raycasting 3D réalisé en C, avec une interface utilisateur simple et des fonctionnalités de base.',
+		image: 'image/cube3d-logo.png',
+		link: 'https://github.com/nico-tome/cube3d',
+		linkLabel: 'Voir sur GitHub',
+		status: 'C / Linux',
+		languages: ['C', 'Makefile'],
+		tags: ['Raycasting', '3D', 'C', '42']
+	},
+	{
+		title: 'Better libft',
+		category: 'Outils',
+		subtitle: 'Libft améliorée pour 42',
+		description: 'Une version améliorée de la libft pour l’école 42, avec des fonctions supplémentaires et une meilleure organisation.',
+		image: 'image/better-libft-logo.png',
+		link: 'https://github.com/nico-tome/better-libft',
+		linkLabel: 'Voir sur GitHub',
+		status: 'C / Linux',
+		languages: ['C', 'Makefile'],
+		tags: ['School', '42', 'Librairie']
+	},
   {
     title: 'Jeu du pendu',
     category: 'Machine Learning',
@@ -36,18 +96,6 @@ window.PORTFOLIO_PROJECTS = [
     tags: ['Jeu', 'Éditeur', 'Rythme']
   },
   {
-    title: 'Fisc Adventure',
-    category: 'Jeux',
-    subtitle: 'Jeu raycasting 3D en Scratch',
-    description: 'Un jeu satirique exporté depuis Scratch avec raycasting 3D, préparation d’armes et phases de boss.',
-    image: 'image/fisc-adventure-banner.png',
-    link: 'https://tomyo.itch.io/fisc-adventure',
-    linkLabel: 'Voir sur Itch.io',
-    status: 'Windows',
-    languages: ['Scratch'],
-    tags: ['Jeu', 'Raycasting', '3D']
-  },
-  {
     title: 'Gouvernail Project Manager',
     category: 'Application',
     subtitle: 'Application de gestion de projets avec graphes',
@@ -58,65 +106,5 @@ window.PORTFOLIO_PROJECTS = [
     status: 'Windows / Linux',
     languages: ['GDScript', 'JSON'],
     tags: ['Gestion', 'Productivité', 'Graph', 'Godot']
-  },
-  {
-    title: 'Better libft',
-    category: 'Outils',
-    subtitle: 'Libft améliorée pour 42',
-    description: 'Une version améliorée de la libft pour l’école 42, avec des fonctions supplémentaires et une meilleure organisation.',
-    image: 'image/better-libft-logo.png',
-    link: 'https://github.com/nico-tome/better-libft',
-    linkLabel: 'Voir sur GitHub',
-    status: 'C / Linux',
-    languages: ['C', 'Makefile'],
-    tags: ['School', '42', 'Librairie']
-  }, 
-  {
-    title: 'Cube3D',
-    category: 'Jeux',
-    subtitle: 'Projet de raycasting en C',
-    description: 'Un projet de raycasting 3D réalisé en C, avec une interface utilisateur simple et des fonctionnalités de base.',
-    image: 'image/cube3d-logo.png',
-    link: 'https://github.com/nico-tome/cube3d',
-    linkLabel: 'Voir sur GitHub',
-    status: 'C / Linux',
-    languages: ['C', 'Makefile'],
-    tags: ['Raycasting', '3D', 'C', '42']
-  },
-  {
-    title: 'Minishell',
-    category: 'Outils',
-    subtitle: 'Un shell minimaliste en C',
-    description: 'Un projet de shell minimaliste réalisé en C, avec des fonctionnalités de base pour l’exécution de commandes.',
-    image: 'image/minishell-logo.png',
-    link: 'https://github.com/nico-tome/minishell',
-    linkLabel: 'Voir sur GitHub',
-    status: 'C / Linux',
-    languages: ['C', 'Makefile'],
-    tags: ['Shell', 'C', '42']
-  },
-  {
-	title: 'ft_ls',
-	category: 'Outils',
-	subtitle: 'Une reproduction de la commande ls',
-	description: 'Un projet de command linux qui reproduit le comportement de ls. Apprend la gestion de flag et des infos des fichiers.',
-	image: 'image/ft_ls.png',
-	link: 'https://github.com/nico-tome/ft_ls',
-	linkLabel: 'Voir sur Github',
-	status: 'C / Linux',
-	languages: ['C', 'Makefile'],
-	tags: ['Shell', 'C', '42']
-  },
-  {
-	title: 'leaffliction',
-	category: 'IA',
-	subtitle: 'Une IA d\'analyse de feuille',
-	description: 'Designer un reseau de neuronnes qui analyse des images de feuilles et predit leurs maladies.',
-	image: 'image/leaffliction.jpg',
-	link: 'https://github.com/nico-tome/Leaffliction',
-	linkLabel: 'Voir sur Github',
-	status: 'Python / Linux',
-	languages: ['Python'],
-	tags: ['Python', 'IA', '42']
-  }
+  },  
 ];

@@ -17,7 +17,7 @@ const translations = {
     heroPrimary: 'Voir mes projets',
     heroSecondary: 'Me contacter',
     overviewTitle: 'Langages favori',
-    overviewDescription: 'Une utilisation variée adaptée à chaque projet.',
+    overviewDescription: 'Les languages que j\'ai le plus utilises',
     statsProjects: 'projets',
     statsLanguages: 'langages',
     chartTitle: 'Top 5 utilisations',
